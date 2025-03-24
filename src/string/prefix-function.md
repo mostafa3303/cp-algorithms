@@ -385,3 +385,4 @@ The problem can be solved in the same way by constructing the automaton of the p
 * [Codeforces - Anthem of Berland](http://codeforces.com/contest/808/problem/G)
 * [Codeforces - MUH and Cube Walls](http://codeforces.com/problemset/problem/471/D)
 * [Codeforces - Prefixes and Suffixes](https://codeforces.com/contest/432/problem/D)
+* [Codeforces - Prefix Function Queries](https://codeforces.com/contest/1721/problem/E)
